@@ -4,7 +4,7 @@ A Bookmarklet For Saving The Current State Of A Webpage Or Load A Previously Sav
 ### Step1: 
 Download the HTML file
 ### Step2: 
-Go [here](chrome://bookmarks)
+Go here: chrome://bookmarks
 ### Step3: 
 Click the three dots
 ### Step4: 
