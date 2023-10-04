@@ -6,7 +6,7 @@ Download the HTML file
 ### Step2: 
 Go here: chrome://bookmarks
 ### Step3: 
-Click the three dots
+Click the three dots in the top right corner
 ### Step4: 
 Click Import Bookmark
 ### Step5: 
