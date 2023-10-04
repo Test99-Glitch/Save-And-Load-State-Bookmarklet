@@ -4,7 +4,7 @@ A Bookmarklet For Saving The Current State Of A Webpage Or Load A Previously Sav
 ### Step1: 
 Download the HTML file
 ### Step2: 
-Go to chrome://bookmarks
+Go [here] (chrome://bookmarks)
 ### Step3: 
 Click the three dots
 ### Step4: 
@@ -17,6 +17,7 @@ Go to any website
 ### Step2: 
 Click on the bookmarklet
 ### Step3: 
-Enter save or load into the box (it must be all lowercase)
+Enter save or load into the box
+> btw it must be all lowercase
 ### Step4: 
 Have fun with it
